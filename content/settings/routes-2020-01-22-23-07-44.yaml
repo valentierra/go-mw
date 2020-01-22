@@ -1,11 +1,4 @@
 routes:
-  /podcast/:
-    controller: channel
-    filter: tag:[hash-podcast]
-    data:
-      post: page.podcast
-    limit: 10
-    template: godo-podcast
 
 collections:
   /:
