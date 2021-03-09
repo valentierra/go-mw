@@ -8,6 +8,7 @@ themes=(
 	escript-home
 	fizzy
 	gazette
+	gazette-home
 	kusi-doc
 	liebling
 	london
